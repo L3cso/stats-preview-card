@@ -22,13 +22,13 @@ h1 {
     font-weight: 700;
     color: hsl(0, 0%, 100%);
     margin: 2em 1em 1em;
-    max-width: 14ch;
+    max-width: 15ch;
 }
 
 .metrics-letters {
     font-family: 'Lexend Deca', sans-serif;
     text-transform: uppercase;
-    color: hsla(0, 0%, 100%, 0.6);
+    color: hsla(0, 0%, 100%, 0.4);
 }
 
 .metrics-numbers {
